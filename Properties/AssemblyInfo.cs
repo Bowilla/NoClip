@@ -3,7 +3,7 @@ using System.Runtime.InteropServices;
 using MelonLoader;
 using NoClip;
 
-[assembly: MelonInfo(typeof(NoClipMod), "NoClip", "0.1.0", "Bowilla")]
+[assembly: MelonInfo(typeof(NoClipMod), "NoClip", "1.0.0", "Bowilla")]
 [assembly: MelonGame("", "Beton Brutal")]
 
 // General Information about an assembly is controlled through the following
